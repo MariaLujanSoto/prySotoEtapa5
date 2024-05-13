@@ -50,11 +50,7 @@ namespace prySotoEtapa5
             tipoVehiculo = "Barco";
 
         }
-        Random rnd = new Random();
-
-        public void crearVehiculoAleatorio()
-        {
-
-        }
+        
+        
     }
 }
