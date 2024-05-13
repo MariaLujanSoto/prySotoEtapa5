@@ -17,9 +17,7 @@ namespace prySotoEtapa5
             InitializeComponent();
         }
 
-        bool Auto = false;
-        bool Avion = false;
-        bool Barco = false;
+       
         clsVehiculo objAuto = new clsVehiculo(); 
         clsVehiculo objAvion = new clsVehiculo();
         clsVehiculo objBarco = new clsVehiculo();
@@ -30,11 +28,6 @@ namespace prySotoEtapa5
         private void frmEtapa5_Load(object sender, EventArgs e)
         {
 
-        }
-
-        private void MostrarImagenAleatoria()
-        {
-     
         }
 
         private PictureBox imagenAleatoria;

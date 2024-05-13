@@ -51,7 +51,7 @@
             this.Controls.Add(this.btnCrear);
             this.Name = "frmEtapa5";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Etapa 5: Crear Objetos Aleatorios por Código";
             this.Load += new System.EventHandler(this.frmEtapa5_Load);
             this.ResumeLayout(false);
 
